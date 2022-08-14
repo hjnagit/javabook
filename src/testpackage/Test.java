@@ -26,7 +26,7 @@ public class Test {
 		
 		System.out.printf("%4.1f %4.1f %4.1f%n", sum, sum1, sum2);
 
-		
+		//깃허브 테스트
 		
 		
 	}
